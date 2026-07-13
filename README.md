@@ -14,7 +14,13 @@ This is the backend web service for Identity Reconciliation (Task 1). It uses Py
 
 ## Setup & Execution
 
-### 1. Install Dependencies
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Nidhi200501/identity-reconciliation-service.git
+cd identity-reconciliation-service
+```
+
+### 2. Install Dependencies
 Create a virtual environment and install the required Python packages:
 ```bash
 # Create virtual environment
